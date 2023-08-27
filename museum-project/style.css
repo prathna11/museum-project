@@ -1,0 +1,104 @@
+#main-navbar{
+    padding: 0px;
+    font-size: 23px;
+    font-weight: 100;
+}
+ #brand{
+    font-weight: 100;
+    font-size: 23px;
+ color: #EA1C2C;
+ }
+
+.nav-link:hover{
+    color: #EA1C2C;
+ }
+
+ @media (min-height=1px){
+nav{
+    background-color:#D8BFD8;
+}
+ }
+
+body{
+    background: #f5d9d5;
+}
+#para1 span{
+    color: #EA1C2C;
+}
+#para1{
+    color: white;
+    font-size: 60px;
+    line-height: 75px;
+  
+}
+@media(max-width:1137px){
+#para1{
+    font-size: 45px;
+    line-height: 60px;
+}
+#onem {
+    margin-top: 50px;
+}
+#twom{
+    margin-top: 50px;
+
+}
+#thirdm{
+    margin-top: 50px;
+}
+.marg{
+    margin-top:50px
+}
+.para .heading {
+    font-size:30px ;
+}
+.para .words{
+    width:350px;
+    height: 300px;
+    line-height:30px;
+    font-size:16px;
+    font-weight: 100;
+}
+}
+h2{
+    color: #EA1C2C;
+}
+.para{
+    margin-top:90px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.words{
+   
+    width: 450px;
+    height: 400px;
+    line-height:40px;
+    font-size:17px;
+    font-weight: 100;
+    color:#FE94D6;
+    
+}
+.heading{
+font-size: 40px;
+font-weight: 100;
+}
+
+
+.secm{
+    margin-top: 100px;
+}
+@media(max-width:758px){
+    .secm{
+        margin:0%
+    }
+   .words{
+    width:500px;
+    height:450;
+   }
+  
+}
+#thirdm{
+    margin-bottom: 50px;
+}
